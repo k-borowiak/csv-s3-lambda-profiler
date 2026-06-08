@@ -78,7 +78,7 @@ csv-s3-lambda-profiler/
 ├── README.md
 │
 └── architecture/
-    └── csv_data_profiler.drawio.png
+│   └── csv_data_profiler.drawio.png
 │
 ├── sample_data/
 │   └── stages_TDF.csv
