@@ -87,7 +87,8 @@ csv-s3-lambda-profiler/
     ├── s3_upload.png
     ├── cloudwatch_log.png
     ├── event_notifications.png
-    └── output_json.png
+    ├── output_json.png
+    └── output_json_2.png
 ```
 ---
 
