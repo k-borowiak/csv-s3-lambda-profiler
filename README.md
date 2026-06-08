@@ -10,7 +10,7 @@ Once a file is uploaded, an AWS Lambda function is triggered to parse the datase
 
 ## ⚙️ Architecture
 
-![Architecture Diagram](csv_data_profiler.drawio.png)
+![Architecture Diagram](architecture/csv_data_profiler.drawio.png)
 
 ---
 
