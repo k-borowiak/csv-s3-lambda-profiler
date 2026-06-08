@@ -39,7 +39,7 @@ Once a file is uploaded, an AWS Lambda function is triggered to parse the datase
 ---
 
 ## 📊 Example Output
-
+```
 {
   "source_bucket": "csv-input-data-fastlookup-416338227393-eu-north-1-an",
   "source_key": "uploads/stages_TDF.csv",
@@ -66,11 +66,12 @@ Once a file is uploaded, an AWS Lambda function is triggered to parse the datase
     "Winner_Country": "GBR"
   }
 }
-
+```
 ---
 
 ## 📁 Project Structure
 
+```
 csv-s3-lambda-profiler/
 │
 ├── lambda_function.py
@@ -85,7 +86,7 @@ csv-s3-lambda-profiler/
     ├── cloudwatch_log.png
     ├── event_notifications.png
     └── output_json.png
-
+```
 ---
 
 ## 💡 Key Features
